@@ -9,7 +9,7 @@ Source: [The Kernel in the Mind](https://www.linkedin.com/pulse/kernel-mind-moon
 
 ## 📚 在线版本
 
-访问 [GitHub Pages](https://bguo2.github.io/the-kernel-in-the-mind/) 查看在线版本。
+访问 [GitHub Pages](https://benx-guo.github.io/the-kernel-in-the-mind/) 查看在线版本。
 
 ## 🚀 本地开发
 
