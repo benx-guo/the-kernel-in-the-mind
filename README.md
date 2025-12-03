@@ -3,6 +3,7 @@
 The Kernel In The Mind: Understanding Linux Kernel Before Code
 
 Author: [moon-hee-lee](https://www.linkedin.com/in/moon-hee-lee)
+Source: [The Kernel in the Mind](https://www.linkedin.com/pulse/kernel-mind-moon-hee-lee-miwze?lipi=urn:li:page:d_flagship3_detail_base;qtID8MVzTwuYibsAdR4hXA==)
 
 这是一个使用 [mdbook](https://rust-lang.github.io/mdBook/) 构建的在线书籍项目。
 
