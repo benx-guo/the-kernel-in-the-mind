@@ -1,23 +1,25 @@
 # Summary
 
-# Chapter 0: Overview
+# Overview
 
 - [Abstract](abstract.md)
 
-# Chapter 1: Understanding Linux Kernel Before Code
+# Understanding Linux Kernel Before Code
 
-# Chapter 2: System Foundations
+- [The Kernel Is Not a Process. It Is the System.](chapter1/section-1.md)
 
-# Chapter 3: Memory, Isolation, and Enforcement
+# System Foundations
 
-# Chapter 4: Boot, Init, and the Kernel’s Entry
+# Memory, Isolation, and Enforcement
 
-# Chapter 5: Entering the Kernel
+# Boot, Init, and the Kernel’s Entry
 
-# Chapter 6: Execution and Contexts
+# Entering the Kernel
 
-# Chapter 7: Communication and Cooperation
+# Execution and Contexts
 
-# Chapter 8: Scheduling, I/O, and Virtualization
+# Communication and Cooperation
 
-# Chapter 9: Concluding Insights
+# Scheduling, I/O, and Virtualization
+
+# Concluding Insights
